@@ -1,4 +1,4 @@
-## About Me
+## I´m Jan!
 - 📫 **Discord:** **derechtejan02**  
 - 💻 **Languages:** **PHP, JavaScript, TypeScript, CSS, HTML**  
 - 😄 **Pronouns:** **he/him**  
