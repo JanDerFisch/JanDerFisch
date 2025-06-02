@@ -1,9 +1,6 @@
-## I´m Jan!
-- 💻 **Languages:** **PHP, JavaScript, TypeScript, CSS, HTML**  
-- 😄 **Pronouns:** **he/him**  
+# Mooin, I´m Jan ✌️
 
----
+### Discord Info:
 
-<p align="center">
-  <img width="47%" height="170px" src="https://github-readme-stats.vercel.app/api?username=janderfisch&show_icons=true&title_color=fff&icon_color=eab308&text_color=d4d4d8&bg_color=18181b&border_color=eab308&border_radius=20" />
-</p>
+**🫥 Tag:** `janderfisch` </br>
+**🤙 Server: [Crimson-Comet](https://discord.gg/XdH7mssdbv)**#
