@@ -1,6 +1,5 @@
 # Mooin, I´m Jan ✌️
 
-### Discord Info:
+### Discord Server:
 
-**🫥 Tag:** `janderfisch` </br>
 **🤙 Server: [Crimson-Comet](https://discord.gg/XdH7mssdbv)**
